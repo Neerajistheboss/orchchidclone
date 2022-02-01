@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+body,html{
+  overflow-x: hidden;
+}
+
+.page{
+  min-height: 86vh;
+}
+
+h1,h2,h3,h4,h5,h6,p{color: '#4876A3 !important' }
